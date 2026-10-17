@@ -45,7 +45,7 @@
     <tr>
       <td align="center"><strong>📱 Gotcha</strong></td>
       <td align="center">On-device Android assistant that turns natural language into real device actions across 80+ tools.</td>
-      <td align="center"><a href="https://github.com/samosa-ai-com"><img src="https://img.shields.io/badge/Repo-Gotcha-F59E0B?style=flat-square&logo=github&logoColor=white" alt="Gotcha"/></a></td>
+      <td align="center"><a href="https://github.com/samosa-ai-com/Gotcha"><img src="https://img.shields.io/badge/Repo-Gotcha-F59E0B?style=flat-square&logo=github&logoColor=white" alt="Gotcha"/></a></td>
     </tr>
     <tr>
       <td align="center"><strong>🎙️ Chanakya</strong></td>
